@@ -1,0 +1,7 @@
+C:\Users\angel\Documents\GitHub\Examen-POO\Examen POO Archivos\bin\Debug\Examen POO Archivos.exe.config
+C:\Users\angel\Documents\GitHub\Examen-POO\Examen POO Archivos\bin\Debug\Examen POO Archivos.exe
+C:\Users\angel\Documents\GitHub\Examen-POO\Examen POO Archivos\bin\Debug\Examen POO Archivos.pdb
+C:\Users\angel\Documents\GitHub\Examen-POO\Examen POO Archivos\obj\Debug\Examen POO Archivos.csproj.AssemblyReference.cache
+C:\Users\angel\Documents\GitHub\Examen-POO\Examen POO Archivos\obj\Debug\Examen POO Archivos.csproj.CoreCompileInputs.cache
+C:\Users\angel\Documents\GitHub\Examen-POO\Examen POO Archivos\obj\Debug\Examen POO Archivos.exe
+C:\Users\angel\Documents\GitHub\Examen-POO\Examen POO Archivos\obj\Debug\Examen POO Archivos.pdb
